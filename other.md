@@ -4,24 +4,13 @@ title: Other
 permalink: /other/
 ---
 
-Here are random other things about me:
+Here are some recommendations by me:
 
-# RECOMMENDATIONS
-
-### Tech Books:
-- **Hackers: Heroes of the Computer Revolution:** A book about the early history of computer revolution. A thick (around 500 pages) but a very engaging book that became a classic.
-- **Writing Interpreters in Go:** This book teaches you how to write your own programming language using Go. The code in the book is easy to understand. Even if I don't know Go language, I was able to follow the book easily. The book helps you implement lexer, parser, AST and interpretation without using a 3rd party library.
-- **The Programmer’s Brain:** This is a book that bridges the gap between cognitive science and software development. I liked the fact that the information in the book is backed by science.
-- **Agile: The Good, The Bad and The Ugly:** A book about the agile by industry veteran Bertrand Meyer. Meyer explains the pros and cons of agile methods in this book. The book was published in 2014 at the peak of agile hype. That makes this book even more valuable, because Meyer shows us the the shortcomings of agile methods in his book, something many agile books failed to do so from that era.
-- **A Philosophy of Software Design:** An amazing book that focuses on software design. The author talks about both more abstract things like how to design modules or hide information as well as more concrete things like writing comments and naming things. Examples are easy to understand, concepts are explained very clearly. A recommend book for both beginners as well as experts.
-- **Hackers & Painters:** A collection of essays by Paul Graham. Some essays have good advice which I still remember. This was one of the first books talking about tech and computers that I read, when I was a university student. In those days (2007-2008), books of this sort were a rare find. So, it has a special place in my life.
-- **How Computers Really Work** The book explains how a computer works by starting from binary logic. Chapters built on top of each other and the author explains circuits, memory, programming langauges, operating systems and the internet in order. The author Matthew Justice explains all the concepts in a clear and understandable way without skipping technical details that made me admire the book.  
-
-### Novels:
+# NOVELS
 - Martin Eden
 - Harry Potter books
 
-### Movies and TV Shows:
+# MOVIES AND TV SHOWS
 - Cinderella Man
 - Lost
 - The Big Bang Theory
@@ -35,4 +24,55 @@ Here are random other things about me:
 - Motorcycle Diaries
 - Mississippi Burning
 - Squid Game
+
+# VISITING MERSIN
+Friends and acquaintances sometimes ask about my hometown, the places worth vising there. This short article explains it.
+
+### How to get to Mersin
+[Cukurova International Airport](https://cukurovaairport.aero/?lang=en) is located 60 km away from Mersin and has direct international flights to countries such as Germany (Dusseldorf, Frankfurt), Russia (Moscow), North Cyprus (Ercan), Azerbaijan (Baku).
+There are [shuttle buses](https://cukurovaairport.aero/yolcular-ve-ziyaretciler/ulasim/otobus) ([HAVAMAS](https://havamas.com/en)) from the airport to the Mersin city center.
+
+Mersin has a train station and a coach station that connects it to the rest of Turkey. [Obilet](https://www.obilet.com/en) is one of the companies for inter-city buses. [TCDD](https://ebilet.tcddtasimacilik.gov.tr/) is the state railway that sells train tickets.
+
+### How to get around in Mersin
+
+Public buses and minibuses are available in the city for the transportation.
+
+### Things to Do and See in Mersin City Center
+Unlike other cities in Turkey, Mersin city center is not that old. It was a village in 18th century and since then it grew due to having a port and arrival of railways. That's why, most historic places in the region is located outside the city. However, there are a few places you can visit in the city center:
+
+- **Old parts of the town:** Mersin's old quarter has churches, traditional houses and various bazaars.
+- **Ataturk House Museum:** An old traiditional Mersin house where Ataturk stayed when he visited the city. The building was converted to a museum. The museum website is [here](https://muze.gov.tr/muze-detay?SectionId=MRA01&DistId=MRK).
+- **Mersin Naval Museum:** A naval museum exhibiting objects such as uniforms, weapons, historical battle ship models and painting.
+- **Mersin Archaeological Museum:** A museum with artifacts from Paleolithic, Neolithic, the Bronze Age and Iron Age era. The museum website is [here](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=MER01).
+- **Mersin Marina:** Marina with a shopping mall. The website is [here](https://www.mersinmarina.com.tr/Home/MainPage?culture=en).
+- **Ataturk Park:** A coastal park in the city
+- **Forum Mersin** A shopping mall in the Pozcu neighborhood. The mall's website is [here](https://www.forummersin.com/). (Website is only available in Turkish.)
+
+### Hiking
+Mersin Metropolita Municipality created a hiking trail of 550 km length in total with different routes for those who love hiking. More information can be found [here](https://kilikyayolu.mersin.bel.tr/en).
+
+### Cuisine
+- **Tantuni:** Mersin's most famous dish.
+- **Salgam:** A beverage made of fermented carrots.
+- **Batirik:**  Bulgur mixed with a special sauce made of tomatoes, tahini, sesame seeds and spices.
+- **Cezerye:** A sweet similar to Turkish delights.
+- **Sikma:** A wrap made by wrapping a roasted onion, cheese or potato. It is still popular especially in rural areas.
+
+### Beaches
+Mersin city center doesn't have any beaches. However, there are 11 blue flag beaches and many more regular beaches in Mersin provice. Here is [the full list of blue flag beaches in Mersin province](https://www.mavibayrak.org.tr/english/city.aspx?il_refno=33). Most beaches are located on the west of the city and usually 1h or more drive away.
+
+### Day Trips from Mersin
+- **Kizkalesi:** A town which has a fortresss in the middle of the sea. The town has also a blue flag beach.
+- **Anamurium** A beach town with nice beaches which has Anemurium ancient city and Mamure castle.
+- **Tarsus** A historic town and birth place of Paul the Apostle (Saul of Tarsus). The town has St Paul's Church, St Paul's Well, Roman road, Eshab-i Kehf Cave, Taskuyu Cave and many other places worth visiting.
+- **Adana** A big city in the region of Cukurova with museums and historic old town.
+- **Silifke** A town west of Mersin worth visiting. It has Silifke Castle, museum, historic churches and beaches.
+- **Camliyayla** A small town in the Taurus Mountains for those who want to escape summer heat in Mersin.
+
+### Other Links
+- [Mersin Cinema Office](https://www.mersinsinemaofisi.com/?Lang=EN)
+- [Mersin Smartphone Apps](https://www.teksinmersin.com/)
+- [Mersin Photos](https://vr.mersin.bel.tr/#!/Kanlidivane-Kiliseler-6c4/?dil=Tr&ath=55&atv=-2&fov=100)
+- [Mersin Science Center for Children](https://www.mersinbilimmerkezi.com/?lang=en#)
 

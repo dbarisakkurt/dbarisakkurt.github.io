@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - work.md
+  - swe.md
   - travel.md
   - photos.md
   - other.md
