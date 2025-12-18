@@ -10,14 +10,14 @@ Mersin, Istanbul, Nuremberg, Ghent, Antwerp
 Countries and cities I have been to:
 
 - **Austria:** Vienna
-- **Belgium:** Antwerp, Bruges, Brussels, Ghent
+- **Belgium:** Antwerp, Bruges, Brussels, Ghent, Leuven, Liege
 - **Czech Republic:** Prague
 - **Denmark:** Copenhagen
 - **Estonia:** Tallinn
 - **France:** Lille, Paris, Strasbourg
 - **Germany:** Aaachen, Berlin, Cologne, Dusseldorf, Frankfurt am Main, Heidelgerg, Munich, Nuremberg, Stuttgart, Tuebingen
 - **Hungary:** Budapest
-- **Indonesia:** Bandung, Jakarta, Jogjakarta 
+- **Indonesia:** Bandung, Bengkulu, Cirebon, Denpasar (Bali Island) Jakarta, Jogjakarta, Mataram (Lombok Island) Semarang, Surabaya
 - **Italy:** Bologna, Florance, Pisa, Rome
 - **Latvia:** Riga
 - **Lithuania:** Vilnius
@@ -170,6 +170,14 @@ areas :
 	},
 	{
 		"id": "QA",
+		"showAsSelected": true
+	},
+	{
+		"id": "LV",
+		"showAsSelected": true
+	},
+	{
+		"id": "LT",
 		"showAsSelected": true
 	}
 ]
